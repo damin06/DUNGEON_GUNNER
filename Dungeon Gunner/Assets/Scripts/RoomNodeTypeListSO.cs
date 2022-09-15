@@ -13,4 +13,5 @@ public class RoomNodeTypeListSO : ScriptableObject
     [Tooltip("This list should be populated with all the RoomNodeTypeSO for the game - it is used instead of an enum")]
     #endregion
     public List<RoomNodeTypeSO> list;
+    public List
 }
